@@ -8,14 +8,7 @@
 
 ---
 
-##  Objective  
-
-This practical work aims to master the full spatial data processing pipeline:  
-from importing OpenStreetMap shapefiles into a PostGIS database, to performing advanced spatial queries, and finally visualizing results using QGIS.
-
-The study area is the city of **Algiers**, focusing on:  
- Identifying buildings located near green spaces.
-
+![Map](sad/Capture%20d'écran%202026-05-04%20230513.png)
 ---
 
 ##  1. Environment and Data  
